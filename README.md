@@ -1,2 +1,2 @@
 # script-gremlins
-Various scripts
+Collection of simple scripts
